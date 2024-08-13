@@ -6,8 +6,10 @@
 .pnp.js
 .yarn/install-state.gz
 
-# testing
+
 /coverage
+**/imges/
+/components/imges/
 
 # next.js
 /.next/
